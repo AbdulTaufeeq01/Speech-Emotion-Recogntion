@@ -1,0 +1,12 @@
+librosa
+torchvision
+Flask
+werkzeug
+torch 
+torchaudio
+transformers
+scikit-learn
+numpy
+pandas
+matplotlib
+soundfile
